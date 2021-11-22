@@ -1,0 +1,12 @@
+.details {
+  font-size: 25px;
+  color: grey;
+  font-weight: 500;
+  text-align: left;
+}
+
+.DetailsDiv {
+  width: 500px;
+  height: auto;
+  margin: auto;
+}

@@ -1,0 +1,11 @@
+.paras {
+  width: 500px;
+  height: auto;
+  /* border: 1px solid red; */
+  display: flex;
+  flex-direction: row;
+  gap: 55px;
+  color: grey;
+  font-size: 28px;
+  margin: auto;
+}
